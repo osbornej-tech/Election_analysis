@@ -5,7 +5,7 @@ This election audit illustrate the results for candidate and county. The illustr
 ## Election-Audit Results
 There were 369,711 votes casted in this congressional election.
 Denver county had the largest voter (306,055) turnout. 
-Diana DeGette won the election with 272,292 votes or 73.8% of the voter turnout. 
+Diana DeGette won the election with 272,292 votes or 73.8% of the popular vote. 
 
 ### Breakdown of votes by county and candidate preference:
 <img src = 'https://github.com/osbornej-tech/Election_analysis/blob/main/resources/text_screenshot.png'>
